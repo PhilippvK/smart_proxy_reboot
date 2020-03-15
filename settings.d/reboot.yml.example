@@ -1,0 +1,5 @@
+---
+:enabled: true
+:user: puppetrun
+:command: 'sudo /sbin/shutdown -r 0'
+:keyfile_path: '/etc/foreman-proxy/id_rsa'
