@@ -1,7 +1,6 @@
 # Smart Proxy - Reboot
 
 INSERT SCREENSHOT HERE!
-[<img src="https://opensourcelogos.aws.dmtech.cloud/dmTECH_opensource_logo%401x.svg" height="21" width="130">](https://dmtech.de/)
 
 This plug-in adds support for Remote Rebooting of Hosts from the Foreman Webinterface when combined with the [`foreman_reboot` plugin](https://github.com/PhilippvK/foreman_reboot).
 
